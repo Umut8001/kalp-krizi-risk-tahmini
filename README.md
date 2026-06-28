@@ -25,4 +25,5 @@ flutter run
 ```
 
 ## 📄 Proje Raporu
-Detaylı dokümantasyon için proje raporuna bakabilirsiniz.
+Detaylı dokümantasyon için [proje raporuna](YapayZekaProjeRaporu.pdf) bakabilirsiniz.
+
